@@ -6,7 +6,7 @@
 
 
 ## Link
-https://deepthi.github.io/algorithmsVisualizer/#/
+https://andresrodriguez55.github.io/algorithmsVisualizer/#/
 
 ## Description
 
